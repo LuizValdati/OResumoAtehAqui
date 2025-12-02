@@ -1,4 +1,7 @@
-![](https://static.wixstatic.com/media/3d3594_6a16c57cf43a45148ba18da30afb4ad7~mv2.png/v1/fill/w_196,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOGO%201.png)
+<p align="center">
+  <img src="LOGO 1.avif" alt="Imagem de topo" style="max-width:700px; width:100%; height:auto;" />
+</p>
+
 # 🌐 Módulo 1 - Introdução às Redes e à Internet
 
 ## 📄 Introdução às Redes e à Internet - Aula 01
