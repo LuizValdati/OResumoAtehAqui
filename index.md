@@ -1,8 +1,7 @@
-<div style="background-color: #f6f8fa; padding: 10px 0; width: 100%;">
+
 <p align="center">
   <img src="LOGO 1.avif" alt="Imagem de topo" style="max-width:700px; width:100%; height:auto;" />
 </p>
-</div>
 
 # 🌐 Módulo 1 - Introdução às Redes e à Internet
 
